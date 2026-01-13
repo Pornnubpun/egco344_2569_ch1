@@ -1,6 +1,5 @@
 
-//node.js file for API to show gpa
-//comment
+//node.js file for API to show gpa 
 
 
 const express = require('express');
